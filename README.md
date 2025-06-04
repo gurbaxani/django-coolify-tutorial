@@ -1,3 +1,5 @@
+hello
+
 # Django Coolify Tutorial
 
 This project is a tutorial on how to coolify your Django project using Docker and other modern tools. It is used as an example for the article [Coolify Your Django Project](https://fmacedo.com/posts/coolify-your-django-project).
@@ -9,7 +11,6 @@ This project demonstrates how to set up a Django application with Docker, using 
 ## Prerequisites
 
 - Python 3.12
-
 
 ## Setup Instructions
 
@@ -102,7 +103,6 @@ This project demonstrates how to set up a Django application with Docker, using 
 - psycopg2-binary 2.9.10
 - Gunicorn 23.0.0
 - Python Decouple 3.8
-
 
 ## Author
 
